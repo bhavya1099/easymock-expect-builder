@@ -72,7 +72,7 @@ import org.junit.Test;
 import org.junit.Rule;
 import org.junit.rules.ExpectedException;
 import org.easymock.EasyMock;
-import org.apache.commons.lang3.NotImplementedException;
+// import org.apache.commons.lang3.NotImplementedException;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 import org.junit.experimental.categories.Category;
 
